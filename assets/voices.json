@@ -1,0 +1,82 @@
+{
+  "groups": [
+    {
+      "group_name": "friends",
+      "group_description": "friends 👩‍👩‍👧‍👧",
+      "voice_list": [
+        {
+          "path": "friends/shup_up_crelly.opus",
+          "description": "shup up crelly",
+          "updated_at": 1755165579
+        }
+      ]
+    },
+    {
+      "group_name": "quotes",
+      "group_description": "Quotes📝",
+      "voice_list": [
+        {
+          "path": "quotes/aquwa_chair.opus",
+          "description": "Listen, there is a Aquwa chair in every single hotel",
+          "updated_at": 1755165594
+        },
+        {
+          "path": "quotes/lvl100_twickster.opus",
+          "description": "I am a lvl 100 twickster",
+          "updated_at": 1755165594
+        },
+        {
+          "path": "quotes/mom_im_on_tv.opus",
+          "description": "Mom mom, I'm on TV",
+          "updated_at": 1755165594
+        },
+        {
+          "path": "quotes/shupup.opus",
+          "description": "Shup Up",
+          "updated_at": 1755165594
+        },
+        {
+          "path": "quotes/superpoo.opus",
+          "description": "super poo",
+          "updated_at": 1755165594
+        },
+        {
+          "path": "quotes/youre_mine.opus",
+          "description": "(yandere?) you're mine",
+          "updated_at": 1755165594
+        },
+        {
+          "path": "quotes/xdx_back.opus",
+          "description": "xdx back",
+          "updated_at": 1755165594
+        }
+      ]
+    },
+    {
+      "group_name": "noises",
+      "group_description": "Noises📢",
+      "voice_list": [
+        {
+          "path": "noises/evil_laugh_hehe.opus",
+          "description": "(evil laugh) hehehe",
+          "updated_at": 1755165778
+        },
+        {
+          "path": "noises/tweaking.opus",
+          "description": "(Tweaking noises)",
+          "updated_at": 1755165791
+        },
+        {
+          "path": "noises/uwu.opus",
+          "description": "uwu",
+          "updated_at": 1755165791
+        }
+      ]
+    },
+    {
+      "group_name": "angy",
+      "group_description": "🤬",
+      "voice_list": []
+    }
+  ]
+}
