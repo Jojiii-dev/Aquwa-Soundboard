@@ -58,7 +58,7 @@
       "voice_list": [
         {
           "path": "noises/evil_laugh_hehe.opus",
-          "description": "(evil laugh) hehehe",
+          "description": "(evil laugh) ehehehe",
           "updated_at": 1755165778
         },
         {
@@ -70,6 +70,16 @@
           "path": "noises/uwu.opus",
           "description": "uwu",
           "updated_at": 1755165791
+        },
+        {
+          "path": "noises/guhguh_go_eat_now.opus",
+          "description": "I'm gonna go guh guh buhguh go eat now",
+          "updated_at": 1755170159
+        },
+        {
+          "path": "noises/yup.opus",
+          "description": "yup",
+          "updated_at": 1755170165
         }
       ]
     },
