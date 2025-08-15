@@ -76,11 +76,6 @@
           "updated_at": 1755289320
         },
         {
-          "path": "quotes/hi_yt2.opus",
-          "description": "Hi Youtube",
-          "updated_at": 1755289320
-        },
-        {
           "path": "quotes/hi_yt.opus",
           "description": "hi youtube",
           "updated_at": 1755289320
@@ -159,6 +154,11 @@
           "path": "quotes/i_think_youre_handsome_too.opus",
           "description": "I think you're handsome too mua",
           "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/im_straight_but.opus",
+          "description": "I'm straight but... if the waifu is pretty",
+          "updated_at": 1755289320
         }
       ]
     },
@@ -234,6 +234,11 @@
         {
           "path": "noises/ewww.opus",
           "description": "EWW EWWW EWWWWWWW",
+          "updated_at": 1755289053
+        },
+        {
+          "path": "noises/no_scream.opus",
+          "description": "(scream) NOOOO",
           "updated_at": 1755289053
         }
       ]
