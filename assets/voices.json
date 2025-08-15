@@ -8,6 +8,21 @@
           "path": "friends/shup_up_crelly.opus",
           "description": "shup up crelly",
           "updated_at": 1755165579
+        },
+        {
+          "path": "friends/crelly_rising_star.opus",
+          "description": "crelly is 100% rising star",
+          "updated_at": 1755288905
+        },
+        {
+          "path": "friends/smelly_crelly.opus",
+          "description": "oh shit smelly crelly?",
+          "updated_at": 1755288905
+        },
+        {
+          "path": "friends/cweamover.opus",
+          "description": "this is o7 Milk. It's Milkover... It's cwe cwe cweamover",
+          "updated_at": 1755288905
         }
       ]
     },
@@ -49,6 +64,101 @@
           "path": "quotes/xdx_back.opus",
           "description": "xdx back",
           "updated_at": 1755165594
+        },
+        {
+          "path": "quotes/am_man.opus",
+          "description": "I am actually a man with a magnum dong",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/gaping_butthole.opus",
+          "description": "I hope your butthole is gaping",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/hi_yt2.opus",
+          "description": "Hi Youtube",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/hi_yt.opus",
+          "description": "hi youtube",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/hii_yt.opus",
+          "description": "hii youtube",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/hiii_yt.opus",
+          "description": "hiii youtube (long)",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/honkshua.opus",
+          "description": "Honk Shooa on that thang",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/hormonal.opus",
+          "description": "Why didn't you show up in the middle of the night when I was hormonal?",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/im_seiso.opus",
+          "description": "I am seiso",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/its_gonna_come.opus",
+          "description": "It's gonnna come right now ahhh it's coming... it came",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/moe_moe_beam.opus",
+          "description": "MOE MOE BEAM",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/smh_mind_gutter.opus",
+          "description": "smh get your mind out of the gutter",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/store_you_in_headballs.opus",
+          "description": "I'm gonna store you in my headballs",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/what_am_i_doing_with_my_life.opus",
+          "description": "What am I doing with my life?",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/when_did_you_get_here.opus",
+          "description": "(shy) When did you get here? you didn't hear anything right? um",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/when_was_jesus_born.opus",
+          "description": "when was Jesus born? ... wait",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/why_so_girthy.opus",
+          "description": "why is it so girthy?",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/heychat.opus",
+          "description": "hey chat, chat chat listen to this one",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/i_think_youre_handsome_too.opus",
+          "description": "I think you're handsome too mua",
+          "updated_at": 1755289320
         }
       ]
     },
@@ -80,13 +190,90 @@
           "path": "noises/yup.opus",
           "description": "yup",
           "updated_at": 1755170165
+        },
+        {
+          "path": "noises/despair_ohgod.opus",
+          "description": "(despair) oh god... oh god",
+          "updated_at": 1755289053
+        },
+        {
+          "path": "noises/dont_say_that.opus",
+          "description": "(despair) don't say that... don't say that",
+          "updated_at": 1755289053
+        },
+        {
+          "path": "noises/mua.opus",
+          "description": "mua",
+          "updated_at": 1755289053
+        },
+        {
+          "path": "noises/scream.opus",
+          "description": "(scream)",
+          "updated_at": 1755289053
+        },
+        {
+          "path": "noises/sniffa.opus",
+          "description": "you get ove here (SNIFFA)",
+          "updated_at": 1755289053
+        },
+        {
+          "path": "noises/sniffa_chair.opus",
+          "description": "I wanna smell your chair (sniffa)",
+          "updated_at": 1755289053
+        },
+        {
+          "path": "noises/tsk_tsk_tsk.opus",
+          "description": "tsk tsk tsk",
+          "updated_at": 1755289053
+        },
+        {
+          "path": "noises/whaaat.opus",
+          "description": "WHAAAT",
+          "updated_at": 1755289053
+        },
+        {
+          "path": "noises/ewww.opus",
+          "description": "EWW EWWW EWWWWWWW",
+          "updated_at": 1755289053
+        }
+      ]
+    },
+    {
+      "group_name": "sus",
+      "group_description": "sus 🤔",
+      "voice_list": [
+        {
+          "path": "angy/stfu_crashout.opus",
+          "description": "stfu SHUT UP ahhh (eats mic)",
+          "updated_at": 1755288653
         }
       ]
     },
     {
       "group_name": "angy",
       "group_description": "🤬",
-      "voice_list": []
+      "voice_list": [
+        {
+          "path": "angy/stfu_crashout.opus",
+          "description": "stfu SHUT UP ahhh (eats mic)",
+          "updated_at": 1755288653
+        },
+        {
+          "path": "angy/what_are_you_making_me_do.opus",
+          "description": "I've never done that in my entire life. What are you making me dooo?",
+          "updated_at": 1755288653
+        },
+        {
+          "path": "angy/who_asked.opus",
+          "description": "Who asked? Who asked? Who asked for your opinion? I didn't",
+          "updated_at": 1755288653
+        },
+        {
+          "path": "angy/frick_butt.opus",
+          "description": "I'm gonna frick you in the butt",
+          "updated_at": 1755289320
+        }
+      ]
     }
   ]
 }
