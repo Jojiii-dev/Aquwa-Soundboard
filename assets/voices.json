@@ -239,17 +239,6 @@
       ]
     },
     {
-      "group_name": "sus",
-      "group_description": "sus 🤔",
-      "voice_list": [
-        {
-          "path": "angy/stfu_crashout.opus",
-          "description": "stfu SHUT UP ahhh (eats mic)",
-          "updated_at": 1755288653
-        }
-      ]
-    },
-    {
       "group_name": "angy",
       "group_description": "🤬",
       "voice_list": [
