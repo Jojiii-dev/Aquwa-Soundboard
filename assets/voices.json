@@ -23,6 +23,26 @@
           "path": "friends/cweamover.opus",
           "description": "this is o7 Milk. It's Milkover... It's cwe cwe cweamover",
           "updated_at": 1755288905
+        },
+        {
+          "path": "friends/crelly_koko_lubbers.opus",
+          "description": "crelly koko lubbers",
+          "updated_at": 1755288905
+        },
+        {
+          "path": "friends/crelly_lubbers.opus",
+          "description": "It's not luck or a coincedence for crelly to be as loved as she is rn",
+          "updated_at": 1755288905
+        },
+        {
+          "path": "friends/punish_staz.opus",
+          "description": "finger staz rn, punish him",
+          "updated_at": 1755288905
+        },
+        {
+          "path": "friends/alex_gooning.opus",
+          "description": "I'm here to discover alex gooning. Where's the alex gooning",
+          "updated_at": 1755288905
         }
       ]
     },
@@ -30,6 +50,11 @@
       "group_name": "quotes",
       "group_description": "Quotes📝",
       "voice_list": [
+        {
+          "path": "quotes/ab3.opus",
+          "description": "(AB3 origin)",
+          "updated_at": 1755165594
+        },
         {
           "path": "quotes/aquwa_chair.opus",
           "description": "Listen, there is a Aquwa chair in every single hotel",
@@ -66,16 +91,6 @@
           "updated_at": 1755165594
         },
         {
-          "path": "quotes/am_man.opus",
-          "description": "I am actually a man with a magnum dong",
-          "updated_at": 1755289320
-        },
-        {
-          "path": "quotes/gaping_butthole.opus",
-          "description": "I hope your butthole is gaping",
-          "updated_at": 1755289320
-        },
-        {
           "path": "quotes/hi_yt.opus",
           "description": "hi youtube",
           "updated_at": 1755289320
@@ -96,18 +111,8 @@
           "updated_at": 1755289320
         },
         {
-          "path": "quotes/hormonal.opus",
-          "description": "Why didn't you show up in the middle of the night when I was hormonal?",
-          "updated_at": 1755289320
-        },
-        {
           "path": "quotes/im_seiso.opus",
           "description": "I am seiso",
-          "updated_at": 1755289320
-        },
-        {
-          "path": "quotes/its_gonna_come.opus",
-          "description": "It's gonnna come right now ahhh it's coming... it came",
           "updated_at": 1755289320
         },
         {
@@ -141,11 +146,6 @@
           "updated_at": 1755289320
         },
         {
-          "path": "quotes/why_so_girthy.opus",
-          "description": "why is it so girthy?",
-          "updated_at": 1755289320
-        },
-        {
           "path": "quotes/heychat.opus",
           "description": "hey chat, chat chat listen to this one",
           "updated_at": 1755289320
@@ -158,6 +158,82 @@
         {
           "path": "quotes/im_straight_but.opus",
           "description": "I'm straight but... if the waifu is pretty",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/akshually.opus",
+          "description": "🤓 Akshually",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/here_for_back.opus",
+          "description": "Turn around, I'm here to look at your back",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/hiii.opus",
+          "description": "hiii",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/i_got_clickbaited.opus",
+          "description": "I got clickbaited",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/i_hate_you.opus",
+          "description": "I hate you, I hate you",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/lost_dignity.opus",
+          "description": "I lost so much (failing to say dignity) dignity",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/puke_it_out.opus",
+          "description": "Come over here I'm gonna make you puke",
+          "updated_at": 1755289320
+        }
+      ]
+    },
+    {
+      "group_name": "sus",
+      "group_description": "Quotes💦",
+      "voice_list": [
+        {
+          "path": "sus/am_man.opus",
+          "description": "I am actually a man with a magnum dong",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "sus/gaping_butthole.opus",
+          "description": "I hope your butthole is gaping",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "sus/hormonal.opus",
+          "description": "Why didn't you show up in the middle of the night when I was hormonal?",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "sus/why_so_girthy.opus",
+          "description": "why is it so girthy?",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "sus/car_battery.opus",
+          "description": "I'm gonna hook a car battery up to your nipples and light up your pubes",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "sus/slimussy.opus",
+          "description": "Spray some activator on the slimussy",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "sus/its_gonna_come.opus",
+          "description": "It's gonnna come right now ahhh it's coming... it came",
           "updated_at": 1755289320
         }
       ]
@@ -240,12 +316,32 @@
           "path": "noises/no_scream.opus",
           "description": "(scream) NOOOO",
           "updated_at": 1755289053
+        },
+        {
+          "path": "noises/aquwa_noises.opus",
+          "description": "(aquwa noises)",
+          "updated_at": 1755289053
+        },
+        {
+          "path": "noises/aquwa_vore.opus",
+          "description": "(POV Aquwa vores you) (loud)",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "noises/phone.opus",
+          "description": "(aquwa phone noises)",
+          "updated_at": 1755289053
+        },
+        {
+          "path": "noises/meow_meow.opus",
+          "description": "🎶meow meow meow meow🎶",
+          "updated_at": 1755289053
         }
       ]
     },
     {
       "group_name": "angy",
-      "group_description": "🤬",
+      "group_description": "😡",
       "voice_list": [
         {
           "path": "angy/stfu_crashout.opus",
@@ -265,6 +361,16 @@
         {
           "path": "angy/frick_butt.opus",
           "description": "I'm gonna frick you in the butt",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "angy/butthole_recover.opus",
+          "description": "May your butthole never recover from all the piping",
+          "updated_at": 1755289320
+        },
+        {
+          "path": "angy/mods_instructions.opus",
+          "description": "(Angy Instructions for mods)",
           "updated_at": 1755289320
         }
       ]

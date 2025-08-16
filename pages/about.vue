@@ -8,7 +8,7 @@
         <ul class="list-disc pl-6">
           <p>
             Thanks for visiting my little soundboard site. I hope you enjoyed
-            it.
+            it. None of the sounds are AI and they are all from Aquwa
           </p>
           <li>
             Created by:
@@ -34,7 +34,7 @@
               九条夏目
             </a>
           </li>
-          <li>Sound file Sources: Twitch Clip, Youtube clips</li>
+          <li>Sound file Sources: Twitch VOD/Clip, Youtube videoes/clips</li>
           <li>Contributors for soundbites: Jojiii</li>
         </ul>
       </VCardText>
