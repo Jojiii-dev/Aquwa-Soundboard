@@ -43,6 +43,11 @@
           "path": "friends/alex_gooning.opus",
           "description": "I'm here to discover alex gooning. Where's the alex gooning",
           "updated_at": 1755288905
+        },
+        {
+          "path": "friends/koko_likes_me.opus",
+          "description": "yo Koko you like me or something?",
+          "updated_at": 1755375520
         }
       ]
     },
@@ -194,6 +199,16 @@
           "path": "quotes/puke_it_out.opus",
           "description": "Come over here I'm gonna make you puke",
           "updated_at": 1755289320
+        },
+        {
+          "path": "quotes/c_section.opus",
+          "description": "I'm gonna perform c-section even if you don't have a baby on you. I'm not even gonna use anesthesia",
+          "updated_at": 1755375978
+        },
+        {
+          "path": "quotes/cast_butthole_opening.opus",
+          "description": "I cast your butthole widening and closing",
+          "updated_at": 1755375978
         }
       ]
     },
@@ -235,6 +250,26 @@
           "path": "sus/its_gonna_come.opus",
           "description": "It's gonnna come right now ahhh it's coming... it came",
           "updated_at": 1755289320
+        },
+        {
+          "path": "sus/bust_all_over.opus",
+          "description": "I'm about to bust all over the screen",
+          "updated_at": 1755376087
+        },
+        {
+          "path": "sus/bust_on_face.opus",
+          "description": "Oh I'm gonna bust, I'm gonna bust so badly. I'm gonna bust right now. I'm gonna come real close and bust it on your face",
+          "updated_at": 1755376087
+        },
+        {
+          "path": "sus/penis_balls.opus",
+          "description": "Penis Balls",
+          "updated_at": 1755376087
+        },
+        {
+          "path": "sus/wiggle_finger.opus",
+          "description": "This finger is gonna do more than just wiggle",
+          "updated_at": 1755376087
         }
       ]
     },
@@ -336,6 +371,26 @@
           "path": "noises/meow_meow.opus",
           "description": "🎶meow meow meow meow🎶",
           "updated_at": 1755289053
+        },
+        {
+          "path": "noises/alien_frequency.opus",
+          "description": "(Alien Ferquency?)",
+          "updated_at": 1755375815
+        },
+        {
+          "path": "noises/gulpgulpgulp.opus",
+          "description": "Gulp Gulp Gulp",
+          "updated_at": 1755375815
+        },
+        {
+          "path": "noises/waa.opus",
+          "description": "Ahh!",
+          "updated_at": 1755375815
+        },
+        {
+          "path": "noises/xdxhehe.opus",
+          "description": "(evil laugh 2)ehehehe",
+          "updated_at": 1755375815
         }
       ]
     },
@@ -372,6 +427,11 @@
           "path": "angy/mods_instructions.opus",
           "description": "(Angy Instructions for mods)",
           "updated_at": 1755289320
+        },
+        {
+          "path": "angy/mods_kill_him.opus",
+          "description": "Mods, ban that guy, that's a hate watcher. Mods kill him, drop a dookie on his house",
+          "updated_at": 1755375483
         }
       ]
     }

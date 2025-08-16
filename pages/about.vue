@@ -16,6 +16,12 @@
               Jojiii
             </a>
           </li>
+          <li>Contributors: M9W</li>
+          <li>
+            Sound file Sources: Twitch VOD/Clip, Youtube videoes/clips,
+            Crewmates
+          </li>
+
           <li>
             Template originally made by:
             <a class="link" href="https://konnokai.me/" target="_blank">
@@ -34,8 +40,6 @@
               九条夏目
             </a>
           </li>
-          <li>Sound file Sources: Twitch VOD/Clip, Youtube videoes/clips</li>
-          <li>Contributors for soundbites: Jojiii</li>
         </ul>
       </VCardText>
     </VCard>
