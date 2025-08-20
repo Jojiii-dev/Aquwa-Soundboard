@@ -219,6 +219,21 @@
           "path": "quotes/bbaka.opus",
           "description": "B-baka! Not like I want you to suck or anything",
           "updated_at": 1755599607
+        },
+        {
+          "path": "quotes/fu.opus",
+          "description": "FU more like FU chat, up in the butt, with my fist, not even lubricated",
+          "updated_at": 1755689750
+        },
+        {
+          "path": "quotes/why_does_he_look_like_that.opus",
+          "description": "Why does he look like that?",
+          "updated_at": 1755689750
+        },
+        {
+          "path": "quotes/xdx_are_you_mud.opus",
+          "description": "xdx are you mud",
+          "updated_at": 1755689750
         }
       ]
     },
@@ -401,6 +416,11 @@
           "path": "noises/xdxhehe.opus",
           "description": "(evil laugh 2)ehehehe",
           "updated_at": 1755375815
+        },
+        {
+          "path": "noises/23un.opus",
+          "description": "um x 23",
+          "updated_at": 1755689729
         }
       ]
     },
