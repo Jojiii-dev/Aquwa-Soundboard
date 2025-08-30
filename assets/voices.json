@@ -224,6 +224,16 @@
           "path": "quotes/xdx_are_you_mud.opus",
           "description": "xdx are you mud",
           "updated_at": 1755689750
+        },
+        {
+          "path": "quotes/aquwa_fanservice_asmr.opus",
+          "description": "(Aquwa fanservice ASMR)",
+          "updated_at": 1756585595
+        },
+        {
+          "path": "quotes/girthy_middle_finger.opus",
+          "description": "(Aquwa talks about her girthy middle finger)",
+          "updated_at": 1756585629
         }
       ]
     },
@@ -285,6 +295,21 @@
           "path": "sus/wiggle_finger.opus",
           "description": "This finger is gonna do more than just wiggle",
           "updated_at": 1755376087
+        },
+        {
+          "path": "sus/aquvore.opus",
+          "description": "aquvore",
+          "updated_at": 1756585833
+        },
+        {
+          "path": "sus/just_for_the_mods.opus",
+          "description": "just for the mods, up in the bum",
+          "updated_at": 1756585833
+        },
+        {
+          "path": "sus/yum_in_your_bum.opus",
+          "description": "yum in your bum",
+          "updated_at": 1756585833
         }
       ]
     },
@@ -411,6 +436,11 @@
           "path": "noises/23un.opus",
           "description": "um x 23",
           "updated_at": 1755689729
+        },
+        {
+          "path": "noises/muwa.opus",
+          "description": "(kiss) muwa",
+          "updated_at": 1756585722
         }
       ]
     },
