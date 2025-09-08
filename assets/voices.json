@@ -48,6 +48,11 @@
           "path": "friends/koko_likes_me.opus",
           "description": "yo Koko you like me or something?",
           "updated_at": 1755375520
+        },
+        {
+          "path": "friends/fufu_soft_girly_parts.opus",
+          "description": "(mod Gyafufu) fufu what kind of soft girly body parts do you have?",
+          "updated_at": 1757315059
         }
       ]
     },
@@ -191,16 +196,6 @@
           "updated_at": 1755289320
         },
         {
-          "path": "quotes/c_section.opus",
-          "description": "I'm gonna perform c-section even if you don't have a baby on you. I'm not even gonna use anesthesia",
-          "updated_at": 1755375978
-        },
-        {
-          "path": "quotes/cast_butthole_opening.opus",
-          "description": "I cast your butthole widening and closing",
-          "updated_at": 1755375978
-        },
-        {
           "path": "quotes/aquwa_freestyle.opus",
           "description": "(Aquwa's baddie freestyle)",
           "updated_at": 1755599605
@@ -209,11 +204,6 @@
           "path": "quotes/bbaka.opus",
           "description": "B-baka! Not like I want you to suck or anything",
           "updated_at": 1755599607
-        },
-        {
-          "path": "quotes/fu.opus",
-          "description": "FU more like FU chat, up in the butt, with my fist, not even lubricated",
-          "updated_at": 1755689750
         },
         {
           "path": "quotes/why_does_he_look_like_that.opus",
@@ -231,15 +221,35 @@
           "updated_at": 1756585595
         },
         {
-          "path": "quotes/girthy_middle_finger.opus",
-          "description": "(Aquwa talks about her girthy middle finger)",
+          "path": "quotes/ilost.opus",
+          "description": "I lost everything today... my dignity, my sanity but most of all, my gallons ",
           "updated_at": 1756585629
+        },
+        {
+          "path": "quotes/do_not_join_discord.opus",
+          "description": "Do not join discord I will ban you and kill you",
+          "updated_at": 1757315475
+        },
+        {
+          "path": "quotes/every_community_needs_a_femboy.opus",
+          "description": "every community needs a femboy",
+          "updated_at": 1757315475
+        },
+        {
+          "path": "quotes/holy_harlet.opus",
+          "description": "Holy harlet x2",
+          "updated_at": 1757315475
+        },
+        {
+          "path": "quotes/pls_dont_out_of_context.opus",
+          "description": "Please don't clip that out of context",
+          "updated_at": 1757315475
         }
       ]
     },
     {
       "group_name": "sus",
-      "group_description": "Quotes💦",
+      "group_description": "Quotes 👀",
       "voice_list": [
         {
           "path": "sus/am_man.opus",
@@ -310,6 +320,21 @@
           "path": "sus/yum_in_your_bum.opus",
           "description": "yum in your bum",
           "updated_at": 1756585833
+        },
+        {
+          "path": "sus/girthy_middle_finger.opus",
+          "description": "(Aquwa talks about her girthy middle finger)",
+          "updated_at": 1756585629
+        },
+        {
+          "path": "sus/cast_butthole_opening.opus",
+          "description": "I cast your butthole widening and closing",
+          "updated_at": 1755375978
+        },
+        {
+          "path": "sus/soft_girly_body_parts.opus",
+          "description": "What kind of soft girly body parts do you have?",
+          "updated_at": 1757315651
         }
       ]
     },
@@ -441,6 +466,11 @@
           "path": "noises/muwa.opus",
           "description": "(kiss) muwa",
           "updated_at": 1756585722
+        },
+        {
+          "path": "noises/whaaat_ahh.opus",
+          "description": "WHAAAT AHH",
+          "updated_at": 1757315143
         }
       ]
     },
@@ -482,6 +512,16 @@
           "path": "angy/mods_kill_him.opus",
           "description": "Mods, ban that guy, that's a hate watcher. Mods kill him, drop a dookie on his house",
           "updated_at": 1755375483
+        },
+        {
+          "path": "angy/c_section.opus",
+          "description": "I'm gonna perform c-section even if you don't have a baby on you. I'm not even gonna use anesthesia",
+          "updated_at": 1755375978
+        },
+        {
+          "path": "angy/fu.opus",
+          "description": "FU more like FU chat, up in the butt, with my fist, not even lubricated",
+          "updated_at": 1755689750
         }
       ]
     }

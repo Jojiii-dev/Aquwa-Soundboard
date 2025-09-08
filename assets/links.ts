@@ -66,6 +66,13 @@ export const links: T_Link[][] = [
       },
       title: 'Crelly Soundboard',
       url: 'https://crelly.vercel.app'
+    },
+    {
+      icon: {
+        emoji: '🌌'
+      },
+      title: 'Submit a Sound',
+      url: 'https://forms.gle/C4DH3hLe1oyzkvg28'
     }
   ]
 ];
