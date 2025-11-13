@@ -47,6 +47,7 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
   - path = the path of the sound you added to the Aquwa-Soundboard\public\voices directory
   - description = the text shown on the voice button
   - updated_at = UNIX timestamp of then the entry was added, entry within 2 weeks will be shown as "new". You can use this website for current timestamp https://www.unixtimestamp.com otherwise I use a VSCode extension called Timestamper
+- Open a pull request for your changes to the main branch, I will review and approve/merge it when I have time
 - Once this is done, if you push your changes to the 'main' branch it will automatically trigger an update via Vercel. It should update it to the site in less than a minute
 - If you want to test your changes locally you need to install bun using the link at the setup section and follow the setup instructions
 
