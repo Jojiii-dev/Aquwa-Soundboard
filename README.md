@@ -39,3 +39,14 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+## How to add Sounds
+
+- add the sound file into one of the folders under Aquwa-Soundboard\public\voices
+- add an entry to Aquwa-Soundboard\assets\voices.json in the group you want it to be under. You can look at the other entries as reference. These entries maps to the buttons on the soundboard
+  - path = the path of the sound you added to the Aquwa-Soundboard\public\voices directory
+  - description = the text shown on the voice button
+  - updated_at = UNIX timestamp of then the entry was added, entry within 2 weeks will be shown as "new". You can use this website for current timestamp https://www.unixtimestamp.com otherwise I use a VSCode extension called Timestamper
+- Once this is done, if you push your changes to the 'main' branch it will automatically trigger an update via Vercel. It should update it to the site in less than a minute
+- If you want to test your changes locally you need to install bun using the link at the setup section and follow the setup instructions
+
